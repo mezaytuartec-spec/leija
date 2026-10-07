@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1A1615"/>
+  <path d="M10 64V34a22 22 0 0 1 44 0v30" fill="none" stroke="#C6A15B" stroke-width="1.6" opacity=".55"/>
+  <text x="32" y="47" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,'Times New Roman',serif" font-size="40" font-weight="500" fill="#C6A15B">L</text>
+</svg>
